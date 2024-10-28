@@ -23,7 +23,7 @@ Brewtique is a Flutter application designed to let users explore and save random
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/brewtique.git
+   git clone https://github.com/ShubhamJaitapkar99/brewtique.git
 
 🛠️ Usage
 Explore Coffee Images: Open the app to view a selection of random coffee images.

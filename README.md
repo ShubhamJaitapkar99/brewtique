@@ -5,7 +5,6 @@ Brewtique is a Flutter application designed to let users explore and save random
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
